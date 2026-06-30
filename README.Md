@@ -30,11 +30,10 @@ The objective of this project is to perform basic data cleaning, formatting, ana
 
 ## Repository Contents
 week-1-retail-sales-excel-analysis/
-│
-├── retail_sales_dataset.csv
-├── Retail_Sales_Analysis.xlsx
-├── screenshots charts
-└── README.md
+── retail_sales_dataset.csv
+── Task 1_Intern_Salsabila.xlsx
+── Screenshots charts
+── README.md
 
 
 ## Author
